@@ -63,7 +63,7 @@ h6.collapse-nav{
     font-weight:600;
 }
 .main{
-    background-image:url(/byd-img/byd_hero.png);
+    background-image:url(byd-img/byd_hero.png);
     background-size:cover;
     background-position:center;
     min-height:102vh;
@@ -301,7 +301,7 @@ nav.position-sticky .hamburger-icon svg {
 }
 @media (max-width:991.998px){
     .main{
-      background-image:url(/byd-img/byd-main-md.png);
+      background-image:url(byd-img/byd-main-md.png);
       background-size:cover;
       overflow:hidden;
     }
